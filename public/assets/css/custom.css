@@ -1,0 +1,29 @@
+.header_wrapper {
+    margin-top: -56px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-blend-mode: multiply;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.header_wrapper .title {
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+
+.header_wrapper .description {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.rounded-full {
+    border-radius: 999px !important;
+}
+
+.header_titler p {
+    font-size: 20px;
+}
